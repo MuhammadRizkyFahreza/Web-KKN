@@ -9,5 +9,9 @@
     <section class="sidebar-link">
         <a href="<?= url('panel/post') ?>">post</a>
     </section>
+    <section class="sidebar-link">
+        <a href="<?= url('auth/logout.php') ?>">logout</a>
+    </section>
+    
 </section>
 

@@ -12,10 +12,18 @@
     <title>PHP panel</title>
     <link rel="stylesheet" href="<?= asset('assets/css/bootstrap.min.css') ?>" media="all" type="text/css">
     <link rel="stylesheet" href="<?= asset('assets/css/style.css') ?>" media="all" type="text/css">
+    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="web-kkn/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="web-kkn/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="web-kkn/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="web-kkn/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="web-kkn/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="web-kkn/assets/css/style.css" rel="stylesheet">
+  
 </head>
 <body>
 <section id="app">
-<?php require_once '../layouts/top-nav.php'; ?>
+
 
 
     <section class="container-fluid">

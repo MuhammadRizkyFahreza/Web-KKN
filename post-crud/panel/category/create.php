@@ -28,7 +28,6 @@
 
 <body>
     <section id="app">
-    <?php require_once '../layouts/top-nav.php'; ?>
 
         <section class="container-fluid">
             <section class="row">

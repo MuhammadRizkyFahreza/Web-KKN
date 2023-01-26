@@ -1,7 +1,7 @@
 <?php
 
 //config
-define('BASE_URL', 'http://localhost/Website-KKN-Sriwedari/post-crud');
+define('BASE_URL', 'http://localhost/Web-KKN/post-crud');
 
 function redirect($url) 
 {    

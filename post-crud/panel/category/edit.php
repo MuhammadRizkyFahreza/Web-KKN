@@ -44,7 +44,6 @@ require_once '../../functions/auth.php';
 </head>
 <body>
 <section id="app">
-<?php require_once '../layouts/top-nav.php'; ?>
 
     <section class="container-fluid">
         <section class="row">

@@ -7,14 +7,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bit Blog Panel</title>
+    <title>Sriwedari</title>
     <link rel="stylesheet" href="<?= asset('assets/css/bootstrap.min.css') ?>" media="all" type="text/css">
     <link rel="stylesheet" href="<?= asset('assets/css/style.css') ?>" media="all" type="text/css">
+    
 </head>
 <body>
 <section id="app">
-
-     <?php require_once 'layouts/top-nav.php'; ?>
 
     <section class="container-fluid">
         <section class="row">
@@ -27,10 +26,7 @@
 
                 <section style="min-height: 80vh;" class="d-flex justify-content-center align-items-center">
                     <section>
-                        <h1>Bit Blog</h1>  
-                        <h5>What Is a Blog?
-                        A blog (short for “weblog”) is an online journal or informational website run by an individual, group, or corporation that offers regularly updated content (blog post) about a topic.</h5>
-                        <h5>It presents information in reverse chronological order and it’s written in an informal or conversational style.</h5>
+                        <h1>Sriwedari</h1>  
                     </section>
                 </section>
 
